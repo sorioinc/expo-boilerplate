@@ -1,0 +1,10 @@
+{
+  "Home": {
+    "title": "Inicio",
+    "settings": "Configuración"
+  },
+  "Settings": {
+    "darkMode": "Modo Oscuro",
+    "language": "Idioma"
+  }
+}

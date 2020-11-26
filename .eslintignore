@@ -1,0 +1,10 @@
+node_modules
+dist
+.expo
+.expo-shared
+web-build
+build
+public
+ios
+android
+**/*.json
