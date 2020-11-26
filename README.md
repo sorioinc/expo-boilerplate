@@ -1,4 +1,4 @@
-# SOY SPS POSITIVO
+# Expo Boilerplate
 
 <!-- PROJECT LOGO -->
 <br />
