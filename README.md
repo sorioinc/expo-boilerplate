@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sorioinc/expo-boilerplate">
-    <img src="user-interface.png" alt="Logo">
+    <img src="images/user-interface.png" alt="Logo">
   </a>
   <h3 align="center">Expo Boilerplate</h3>
 </p>
