@@ -31,7 +31,7 @@
 
 [![Expo Boilerplate][product-screenshot-1]](https://github.com/sorioinc/expo-boilerplate)
 
-This boilerplate lays a foundation for some of the most requested features in an app, with your help it can much better.
+This boilerplate lays a foundation for some of the most requested features in an app, with your help it can get much better.
 
 ### Built With
 
