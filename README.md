@@ -224,7 +224,7 @@ npm run format
 - iOS
 
 ```sh
-npm run ios
+npm run android
 ```
 
 - Android
